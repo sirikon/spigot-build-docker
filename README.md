@@ -1,2 +1,6 @@
-# spigot-build-docker
-Docker image to build Spigot
+# Spigot Build with Docker
+
+```bash
+./build.sh
+# Now look at ./out
+```
